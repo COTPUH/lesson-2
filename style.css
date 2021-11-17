@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+
+
+.picture{
+    width: 1000px;
+    height: 320px;
+    margin-bottom: 45px;
+}
+
+.nav-li{
+   display: inline-block;
+   margin-bottom: 44px;
+   margin-top: 15px;
+}
+
+.nav-li:not(:last-of-type){
+    margin-right: 90px;
+}
+
+.nav-link{
+    color: black;
+    text-decoration: none;
+}
+
+.input{
+    background-color: lightblue;
+    width: 183px;
+    height: 27px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.button{
+    width: 142px;
+    height: 28px;
+    background-color: lightblue;
+    border-radius: 5px;
+    margin-top: 13px;
+}
+
+video{
+    width: 550px;
+    height: 312.09px;
+    margin-top: 37px;
+}
