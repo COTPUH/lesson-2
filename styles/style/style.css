@@ -1,0 +1,86 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.container{
+    max-width: 1090px;
+    margin: 0 auto;
+}
+
+.heder-li{
+    display: inline-block;
+    margin-right: 20px;
+    font-weight: bold;
+}
+
+.heder-li>a{
+font-size: 16px;
+line-height: 22px;
+color: #BD6600;
+text-decoration: none;
+}
+
+.heder-ul{
+    text-align:center ;
+}
+
+.header{
+    padding: 40px 0;
+}
+
+.bg-section{
+    padding: 112px 0;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-image: url(../img/pexels-lukas-kloeppel-2416606\ 1.png);
+}
+
+.bg-text{
+    font-weight: bold;
+    font-size: 72px;
+    line-height: 98px;
+    text-align: center;
+    color: white;
+} 
+
+.container-text{
+    background-position: center;
+    background-size: cover;
+    background-color:#F4812E80 ;
+    padding: 112px 0;
+    margin: 0 auto;
+    max-width: 1090px;
+
+}
+
+.text-text{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 24px;
+    line-height: 33px;
+}
+
+.text-1{
+    width: 756px;
+    height: 333px;
+    text-align: center;
+    font-weight: normal;
+   font-size: 24px;
+   line-height: 33px;
+   margin-left: 172px;
+   margin-bottom: 128px;
+
+}
+
+.button{
+    width: 420px;
+    height: 59px;
+    background-color: #BD6600;
+    color: white;
+   margin:30px 340px ;
+   border: none;
+   font-size: 30px;
+   border-radius: 5px;
+
+}
